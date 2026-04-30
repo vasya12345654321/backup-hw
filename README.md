@@ -11,6 +11,8 @@
 rsync -av --delete --checksum --exclude=".*" /home/misha/ /tmp/backup/
 Выполнение команды rsync:
 <img width="1792" height="1727" alt="1" src="https://github.com/user-attachments/assets/117380e4-80d0-4b43-b721-9108ae09dfd3" />
+<img width="1792" height="1727" alt="1" src="https://github.com/user-attachments/assets/9d871e8d-847d-4049-b98f-a3d6f72f58e7" />
+
 Процесс копирования файлов:
 <img width="1405" height="1827" alt="1-1" src="https://github.com/user-attachments/assets/0d3da153-84b2-41be-a845-a897839f16b9" />
 Проверка содержимого директории backup:
