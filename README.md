@@ -23,9 +23,12 @@ rsync -av --delete --checksum --exclude=".*" /home/misha/ /tmp/backup/
 <img width="2495" height="750" alt="2" src="https://github.com/user-attachments/assets/b655960f-fa22-4b9c-826d-fc001ba511f9" />
 
 ### Настройка и проверка cron
+
 <img width="2585" height="1425" alt="2-2" src="https://github.com/user-attachments/assets/4368cf48-7e08-4ff3-b62e-60e46eecb580" />
 
 <img width="2145" height="1187" alt="2-2-2" src="https://github.com/user-attachments/assets/9eeec19e-30e2-4b44-84ef-8e9e93c115be" />
+
+Cron настроен на ежедневный запуск скрипта в 02:00.
 
 ## **Задание 3**
 
