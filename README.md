@@ -27,5 +27,11 @@ rsync -av --delete --checksum --exclude=".*" /home/misha/ /tmp/backup/
 
 <img width="2145" height="1187" alt="2-2-2" src="https://github.com/user-attachments/assets/9eeec19e-30e2-4b44-84ef-8e9e93c115be" />
 
+## **Задание 3**
+
+### Команда с ограничением скорости:
+rsync -av --bwlimit=125 --progress ~/bigfile /tmp/backup/
+<img width="2622" height="1012" alt="3" src="https://github.com/user-attachments/assets/049998db-09cd-4244-8e03-6a38043192c4" />
+
 
 
